@@ -1,6 +1,6 @@
 # Hello! I'm Peeeyow <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm currently a graduating student at University of the Philippines - Diliman. I'm majoring in electronics and communications engineering. I started learning web development this mid 2021. To build my personal website is my goal this year. Sometimes, I also do research about the new cool trends in machine learning and computer vision.
+I'm currently a graduating student at University of the Philippines - Diliman. I'm majoring in electronics and communications engineering. I started learning web development this mid 2021. To build my personal website is my goal this year. Sometimes, I do research about the new cool trends in machine learning and computer vision.
 
 ## 🔗 Connect with me:
 
