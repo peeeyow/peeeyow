@@ -2,7 +2,7 @@
 $ peeeyow
          _             peeeyow@philippines
         /\ \           -------------------
-       /  \ \          Job: "Mahusai Inc."
+       /  \ \          Job: "Machine Learning Engineer @ Mahusai Inc."
       / /\ \ \         School: "University of the Philippines - Diliman"
      / / /\ \_\        Degree: "B.S. Electronics and Communications Engineering"
     / / /_/ / /        Programming Languages: "Python, Javascript, Lua, Matlab"
